@@ -8,7 +8,7 @@ I am a link shortner telegram bot.
 
 >> `I can short any type of link`
 
-Made by @FayasNoushad"""
+Made by @RohanThakur"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -24,15 +24,13 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /settings - For bot settings
 /reset - For reset bot settings
 
-Made by @FayasNoushad"""
+Made by @RohanThakur"""
 
 ABOUT_TEXT = """--**About Me 😎**--
 
 🤖 **Name :** [Link shortner](https://telegram.me/{})
 
-👨‍💻 **Developer :** [GitHub](https://github.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad)
-
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/URL-Shortner-Bot)
+👨‍💻 **Developer :** [GitHub](https://github.com/Rohanthankur360)
 
 📝 **Language :** [Python3](https://python.org)
 
