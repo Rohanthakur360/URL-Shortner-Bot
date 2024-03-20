@@ -14,7 +14,7 @@ POST_API = os.environ.get("POST_API", None)
 OWLY_API = os.environ.get("OWLY_API", None)
 
 BUTTONS = InlineKeyboardMarkup(
-    [[InlineKeyboardButton(text='⚙ Feedback ⚙', url='https://telegram.me/FayasNoushad')]]
+    [[InlineKeyboardButton(text='⚙ Feedback ⚙', url='https://telegram.me/RohanThakur')]]
 )
 
 
@@ -213,7 +213,7 @@ async def short(chat_id, link):
     
     # Send the text
     try:
-        shorten_urls += "\n\nMade by @FayasNoushad"
+        shorten_urls += "\n\nMade by @RohanThakur"
         return shorten_urls
     except Exception as error:
         return error
